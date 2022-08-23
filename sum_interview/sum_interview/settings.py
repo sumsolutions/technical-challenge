@@ -78,17 +78,6 @@ WSGI_APPLICATION = 'sum_interview.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'sum-interview',
-        'USER': 'sum-interview',
-        'PASSWORD': 'sum-interview',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
-    }
-}
-
-DATABASES = {
-    'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'db.sqlite3',
     }
