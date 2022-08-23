@@ -74,7 +74,7 @@
     <tr>
         <td>VALE3</td>
         <td>700</td>
-        <td>26.85</td>
+        <td>26.53</td>
         <td>John</td>
         <td>John@bank1</td>
     </tr>
